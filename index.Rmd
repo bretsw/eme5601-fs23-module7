@@ -181,7 +181,7 @@ class: inverse, center, middle
 # `r fa("fas fa-leaf", fill = "#fff")` Learning Assessments
 
 ```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
-include_graphics("img/isd-otter.png")
+include_graphics("img/otter.png")
 ```
 
 --
@@ -201,7 +201,7 @@ include_graphics("img/isd-otter.png")
 # `r fa("fas fa-leaf", fill = "#fff")` Learning Assessments
 
 ```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
-include_graphics("img/isd-otter.png")
+include_graphics("img/otter.png")
 ```
 
 ### Performance Objectives `r fa("fas fa-arrow-right", fill = "#782F40")` Performance Metrics
